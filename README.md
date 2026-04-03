@@ -100,6 +100,7 @@ Whether you're writing your first eBook, publishing a paperback on demand, or la
 - [The Creative Penn](https://www.thecreativepenn.com/podcasts/) – Writing and publishing advice with Joanna Penn.
 - [Self Publishing Show](https://selfpublishingformula.com/podcasts/) – Indie author interviews and tips.
 - [Kindlepreneur Blog](https://kindlepreneur.com/blog/) – Marketing and Kindle publishing strategies.
+- [TaleForge](https://www.tale-forge.com/) - Free creative writing platform with book, manga/webtoon, and screenplay editors. Marketplace, offline PWA, 10 languages.
 
 ## Books
 
